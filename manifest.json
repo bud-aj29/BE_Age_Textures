@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Age of crops in texture",
+        "name": "Age Texture",
+        "uuid": "fe74b5ad-f975-44a7-8c84-b47006dfd989",
+        "version": [0, 0, 3],
+        "min_engine_version": [ 1, 18, 0 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "b578c68f-2e34-440a-928e-1e9182f7b688",
+            "version": [0, 0, 1]
+        }
+    ]
+}
