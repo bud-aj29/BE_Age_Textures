@@ -3,15 +3,15 @@
     "header": {
         "description": "Age of crops in texture",
         "name": "Age Texture",
-        "uuid": "fe74b5ad-f975-44a7-8c84-b47006dfd989",
-        "version": [0, 0, 3],
-        "min_engine_version": [ 1, 18, 0 ]
+        "uuid": "28fff881-6fa2-4671-b8f5-0061b1395743",
+        "version": [0, 0, 4],
+        "min_engine_version": [ 1, 20, 10 ]
     },
     "modules": [
         {
             "description": "",
             "type": "resources",
-            "uuid": "b578c68f-2e34-440a-928e-1e9182f7b688",
+            "uuid": "e46ad710-3a03-4ef9-80cd-a28bd10b1bef",
             "version": [0, 0, 1]
         }
     ]
